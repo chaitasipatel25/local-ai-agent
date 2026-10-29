@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Local AI Agent
 
 Build and run a simple AI agent locally using Python, Ollama, and an open-weight language model.
